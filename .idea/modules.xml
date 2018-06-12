@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baseSsm/baseSsm.iml" filepath="$PROJECT_DIR$/baseSsm/baseSsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayang/dayang.iml" filepath="$PROJECT_DIR$/dayang/dayang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parenthuating/parenthuating.iml" filepath="$PROJECT_DIR$/parenthuating/parenthuating.iml" />
+    </modules>
+  </component>
+</project>
